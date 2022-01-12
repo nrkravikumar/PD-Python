@@ -1,0 +1,48 @@
+Day-02[11-01-2022]:
+===================
+	Good Evening to All...
+
+
+	IDLE:
+	=====
+	I - Integrated
+	D - Development
+	L - Learning
+	E - Environment
+	[shell]
+
+	10 programs => 10 filenames
+
+	Jupyter notebook:
+	=================
+		1 cell => 1 program
+		.ipynb
+		i => interactive
+		py => python
+		nb => notebook
+
+	Jupyter notebook Installation:
+	==============================
+		> cmd
+		> pip install jupyter notebook
+
+	Openining Jupyter Notebook:
+	===========================
+		> cmd
+		> jupyter notebook
+		> by default browser => open
+
+	Literate Programming:
+	=====================
+		=> combination of Markdown Format and coding format
+		=> py
+
+	Formats:
+	========
+		=> code
+			=> green => edit mode
+			=> blue => code mode
+		=> markdown
+			=> green => edit mode
+			=> blue => code mode
+	
