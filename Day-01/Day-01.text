@@ -1,0 +1,74 @@
+
+Day-01[10-01-2022]:
+===================
+	
+	Good Evening to All..
+
+	Python:
+	=======
+		- Interpreted Programming Language
+		- Line by Line Execution but it stops the execution where the error exists at first point
+		- Number of Packages and Modules
+
+	Python -> 2.x => [Inbuilt packages and modules => user has to create their own package or module]
+		   -> 3.x => builtin packages
+
+	Python software:
+	================
+		-> http://python.org
+		-> We need to select os from downloads
+		-> two columns
+			=> stable release => for coding our programs
+			=> pre release => for development purpose
+		-> cntrl + f => python 3.7.5
+		-> windowsx86-64 executeable installer [.exe] => windows
+
+	Python Installation:
+	====================
+	-> double click
+		-> windows => two options
+			=> custom installation => user defined location
+			=> install now
+				=> path "
+				c:\\users\AppData\Local\Programs\Python\Python3x\"
+		-> two checkbox:
+			=> user permissions
+			=> add path to environment variable => X
+				=> python is internal or external command error
+				=> python is not installed
+	
+	Python Check:
+	=============
+	-> cmd
+	-> python -V
+
+	Python Execution:
+	=================
+	-> Basic Procedure
+	-> Advanced Editors
+	-> IDLE
+	-> Jupyter Notebook			
+
+	Basic Procedure:
+	================
+		=> Notepad
+		=> Interpreter
+
+	=> cmd [Location of source file]
+	=> python filename.py
+	=> filename.py
+
+	Advanced Editors:
+	=================
+		=> Atom,geany,sublime,Notepad++,editplus etc.,
+		=> interpreter
+	=> filename.extension
+	=> shortcuts
+	=> cmd => output
+
+	
+	
+
+
+
+
